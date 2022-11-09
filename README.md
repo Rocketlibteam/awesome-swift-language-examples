@@ -1,4 +1,4 @@
-# Awesome Swift Language Examples
+# Awesome Swift Language Guide Examples
 
 A collaborative list of Swift language concept examples. It can be tutorials, write ups, gists and more. Each section will be based on the [Swift Language Guide](https://docs.swift.org/swift-book/). 
 
